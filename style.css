@@ -1,0 +1,35 @@
+
+.fondo{
+    height: 100%;
+    width: 100%;
+    background-image: url(https://64.media.tumblr.com/fe4eaf2240535cc81b0e0fb27b377828/873ea4b830a74846-0a/s2048x3072_c0,20000,100000,80000/41213ffe9423612e29f311ad841fcaa8a1b6e01f.png);
+    background-repeat:repeat-y, repeat-x;
+    background-size:cover;
+}
+
+.font{
+    text-shadow: 0 0 10px #FFFFFF;
+}
+
+.card-style{
+    background-color: #6611FF;
+    margin: 1%;
+    border-style: solid;
+    border-color: white;
+    box-shadow: 0 0 10px #FFFFFF;
+}
+
+.card-image{
+    margin-top: 2%;
+    object-fit: 100%;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.btn-style{
+    position: fixed;
+    z-index: 5;
+    bottom: 0;
+  }
+
